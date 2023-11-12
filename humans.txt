@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Dick Dastardly
+ddast@gmail.com
+SDETIII. DevOps Eng
 
 # THANKS
 
