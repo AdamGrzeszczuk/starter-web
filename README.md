@@ -10,5 +10,5 @@ this is a famous one of the best devops training (maybe in india)
 ## git comparison 
 adding git comparisons lecture 
 
+## adding dick dastardly to the team
 
-#github conentent comparison with repo
