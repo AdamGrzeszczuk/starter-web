@@ -13,3 +13,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, cos tam, chujow-sto
+cos tam dopisuje na branchu dick
