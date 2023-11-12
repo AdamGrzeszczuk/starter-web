@@ -5,3 +5,10 @@ a lot of lectures are already submitted
 
 
 this is a famous one of the best devops training (maybe in india)
+
+
+## git comparison 
+adding git comparisons lecture 
+
+
+#github conentent comparison with repo
