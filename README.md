@@ -16,4 +16,4 @@ adding git comparisons lecture
 I'M ON MASTER BRANCH - I chose the master - merge conflict
 
 
-adding git rebase in git advance part
+adding git rebase in git advance part. we've done so much of work together 
