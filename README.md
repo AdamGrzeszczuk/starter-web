@@ -1,3 +1,7 @@
+git cos tam dodane na githuvie
+    
+    
+    
     starter web-project\n\n\n##Introduction\n\n##GIT and GitHub Training
 this is git project which we are using as sample project
 
