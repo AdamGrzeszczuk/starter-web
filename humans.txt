@@ -6,7 +6,8 @@ modifying file before git rebase
 
 Dick Dastardly
 ddast@gmail.com
-SDETIII. DevOps Eng
+SDETIII. DevOps Eng level III
+IT orgnanization 
 
 # THANKS
 
